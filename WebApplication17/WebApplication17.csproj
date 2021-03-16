@@ -165,7 +165,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Emp\Display.cshtml" />
-    <Content Include="Views\Shared\Partial.cshtml" />
+    <Content Include="Views\Shared\PartialView.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
